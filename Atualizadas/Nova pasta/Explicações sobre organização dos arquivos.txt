@@ -1,0 +1,16 @@
+EXPLICAÇÕES:
+
+IFPE ARQUIVO RAIZ B+C+E+F: Concentra todas as plantas baixas atualizadas dos respectivos blocos em um mesmo arquivo.
+
+ARQ-IFPE_raiz: com exceção dos Blocos acima listados, concentra todas as plantas baixas atualizadas do IFPE.
+
+Mokeup: Arquivo base de agenciamento das plantas. 
+
+Carimbo xref e carimbo xref alterado: arquivo que concentra o carimbo padrão, dado os vários números de prancha, caso haja alguma mudança, todas são atualizadas automaticamente.
+
+TODOS ESSES ACIMA LISTADOS SÃO ARQUIVOS-BASE, NÃO PRECISAM SER PLOTADOS, MAS TEM DE ESTAR NA MESMA PASTA DOS ARQUIVOS PLOTÁVEIS.
+
+CADA BLOCO FOI ORGANIZADO EM ARQUIVO SEPARADO CONFORME O SEU RESPECTIVO NOME - ESSES SÃO OS ARQUIVOS PLOTÁVEIS.
+
+OS ARQUIVOS DEVEM SER PLOTADOS COM O CTB QUE SEGUE DENTRO DESTA PASTA.
+
